@@ -12,7 +12,7 @@ yarn global add detom
 
 First, you need to export you're Dev.to content.
 
-![export-content](export-content.png)
+![exportcontent](exportcontent.png)
 
 You'll receive your data by mail and you just have to provide them to `detom`
 

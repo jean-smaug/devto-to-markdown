@@ -1,0 +1,23 @@
+{
+  "name": "devto-to-markdown",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "license": "MIT",
+  "bin": {
+    "detom": "build/index.js"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/node": "13.7.7",
+    "slugify": "^1.4.0",
+    "typescript": "3.8.3"
+  },
+  "devDependencies": {
+    "@types/jest": "25.1.3",
+    "jest": "25.1.0",
+    "prettier": "1.19.1",
+    "ts-jest": "25.2.1"
+  }
+}

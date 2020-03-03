@@ -10,6 +10,12 @@ yarn global add detom
 
 ## Usage
 
+First, you need to export you're Dev.to content.
+
+![export-content](export-content.png)
+
+You'll receive your data by mail and you just have to provide them to `detom`
+
 The following commande will generate all published articles inside a markdown folder with the following structure `slugified-article-title/index.md`.
 
 ```bash

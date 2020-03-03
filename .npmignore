@@ -1,0 +1,8 @@
+data/
+src/
+*.png
+jest.config.js
+README.md
+tsconfig.json
+yarn.lock
+markdown

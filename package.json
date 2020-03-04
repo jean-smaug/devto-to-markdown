@@ -1,7 +1,8 @@
 {
   "name": "detom",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "main": "build/index.js",
+  "repository": "https://github.com/jean-smaug/devto-to-markdown",
   "license": "MIT",
   "bin": {
     "detom": "build/index.js"

@@ -10,7 +10,7 @@ yarn global add detom
 
 ## Usage
 
-First, you need to export you're Dev.to content.
+First, you need to [export you're Dev.to content](https://dev.to/settings/misc).
 
 ![exportcontent](https://raw.githubusercontent.com/jean-smaug/devto-to-markdown/master/exportcontent.png)
 
